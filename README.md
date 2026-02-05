@@ -84,18 +84,15 @@ pip install gradio openai
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/clinical-consensus-system.git
+git clone [https://github.com/yourusername/clinical-consensus-system.git](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B)
 cd clinical-consensus-system
 ```
 
 **2. Configure API token**
 
-Open `medical_panel_review.py` and add your HuggingFace API token on line 9.
+Open the main file and add your HuggingFace API token on line 9.
 
 **3. Run the application**
-```bash
-python medical_panel_review.py
-```
 
 **4. Access the interface**
 
@@ -219,9 +216,9 @@ Gradio for web interface framework
 ```bibtex
 @software{clinical_consensus_system_2025,
   title={Clinical Consensus System: Multi-Agent AI for Medical Diagnosis},
-  author={Your Name},
+  author={Rumi Sufi},
   year={2025},
-  url={https://github.com/yourusername/clinical-consensus-system}
+  url={https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B}
 }
 ```
 
@@ -229,9 +226,9 @@ Gradio for web interface framework
 
 ## Contact
 
-GitHub Issues: [Create an issue](https://github.com/yourusername/clinical-consensus-system/issues)  
-Email: your.email@example.com  
-LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+GitHub Issues: [Create an issue]([https://github.com/yourusername/clinical-consensus-system](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B)/issues)  
+Email: sufirumii@gmail.com
+LinkedIn: [Your Profile](https://www.linkedin.com/in/rumi-sufi-6323a5265/)
 
 ---
 
