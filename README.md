@@ -84,7 +84,7 @@ pip install gradio openai
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/clinical-consensus-system.git](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B)
+git clone [https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B.git] (https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B)
 cd clinical-consensus-system
 ```
 
@@ -226,9 +226,11 @@ Gradio for web interface framework
 
 ## Contact
 
-GitHub Issues: [Create an issue]([https://github.com/yourusername/clinical-consensus-system](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B)/issues)  
+GitHub Issues: [Create an issue]([[https://github.com/yourusername/clinical-consensus-system](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B](https://github.com/sufirumii/Medical-Panel-Analyzer---Powered-by-Qwen3-32B))/issues)  
+
 Email: sufirumii@gmail.com
-LinkedIn: [Your Profile](https://www.linkedin.com/in/rumi-sufi-6323a5265/)
+
+LinkedIn: (https://www.linkedin.com/in/rumi-sufi-6323a5265/)
 
 ---
 
